@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/archives/"
+                href="/jp/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="/archives/"
                 />
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/about/"
+                href="/jp/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/"
+                href="/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="/"
                 />
   </url><url>
-    <loc>https://example.com/research/</loc>
+    <loc>/research/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/research/"
+                href="/jp/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/research/"
+                href="/research/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/categories/"
+                href="/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/tags/index/"
+                href="/jp/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="/tags/index/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/post/"
+                href="/jp/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="/post/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/tags/"
+                href="/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

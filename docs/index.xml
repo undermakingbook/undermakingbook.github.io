@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAKUMOTO, Takeshi</title>
-    <link>https://example.com/</link>
+    <link>/</link>
     <description>Recent content on SAKUMOTO, Takeshi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>/about/</guid>
       <description>About Me Interest Research Area  Text Mining(En, Ja)/NLP(Ja) Patent Mining  History Education  Nagaoka University of Technology 5-year system, Doctral Course Dept.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/research/</link>
+      <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>/research/</guid>
       <description>Journal NA
 International Conference Refereed  Kensei Nakai, Hirofumi Nonaka, Asahi Hentona, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreon, Toru Hiraoka, Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks, IEEE IEEM 2018 Asahi Hentona, Hirofumi Nonaka, Kensei Nakai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreon, Hugo Alberto Mendoza España, Toru Hiraoka, Masaharu Hirota, Community Detection and Growth Potential Prediction from Patent Citation Networks, Proc of ACM MEDES 2018  Not Refereed  Eichiro Ohashi, Takeshi Sakumoto, Shotaro Kataoka, Asahi Hentona, Yoko Nakajima, Hirotoshi Honma, Hirofumi Nonaka.</description>
     </item>

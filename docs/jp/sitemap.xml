@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/jp/</loc>
+    <loc>/jp/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/"
+                href="/jp/"
                 />
   </url><url>
-    <loc>https://example.com/jp/tags/</loc>
+    <loc>/jp/tags/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/tags/"
+                href="/jp/tags/"
                 />
   </url><url>
-    <loc>https://example.com/jp/test/</loc>
+    <loc>/jp/test/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/jp/tags/test/</loc>
+    <loc>/jp/tags/test/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/jp/archives/</loc>
+    <loc>/jp/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/archives/"
+                href="/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/archives/"
+                href="/jp/archives/"
                 />
   </url><url>
-    <loc>https://example.com/jp/about/</loc>
+    <loc>/jp/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/about/"
+                href="/jp/about/"
                 />
   </url><url>
-    <loc>https://example.com/jp/research/</loc>
+    <loc>/jp/research/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/research/"
+                href="/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/research/"
+                href="/jp/research/"
                 />
   </url><url>
-    <loc>https://example.com/jp/categories/</loc>
+    <loc>/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/categories/"
+                href="/jp/categories/"
                 />
   </url><url>
-    <loc>https://example.com/jp/tags/index/</loc>
+    <loc>/jp/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/index/"
+                href="/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/tags/index/"
+                href="/jp/tags/index/"
                 />
   </url><url>
-    <loc>https://example.com/jp/post/</loc>
+    <loc>/jp/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://example.com/jp/post/"
+                href="/jp/post/"
                 />
   </url>
 </urlset>
