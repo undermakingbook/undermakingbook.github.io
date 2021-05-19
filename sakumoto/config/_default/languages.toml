@@ -1,0 +1,12 @@
+[en]
+title = "SAKUMOTO, Takeshi"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[jp]
+title = "作本 猛(SAKUMOTO, Takeshi)"
+description = "長岡技術科学大学 5年一貫制博士課程 技術科学イノベーション専攻2年"
+contentDir = "content/japanese" 
+weight = 2 
+LanguageName = "JP"

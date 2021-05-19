@@ -1,0 +1,23 @@
+  [[main]]
+  name = "ホーム"
+  identifier = "home"
+  weight = 100
+  url = "/jp/"
+
+  [[main]]
+  name = "自己紹介"
+  weight = 200
+  identifier = "about"
+  url = "/jp/about/"
+
+  [[main]]
+  name = "研究"
+  weight = 300
+  identifier = "research"
+  url = "/jp/research/"
+
+  [[main]]
+  name = "記事一覧"
+  weight = 400
+  identifier = "posts"
+  url = "/jp/post/"
