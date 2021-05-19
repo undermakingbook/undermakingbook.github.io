@@ -1,0 +1,5 @@
+baseURL = "sakumoto.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
+canonifyurls = true
