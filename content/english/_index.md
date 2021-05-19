@@ -22,7 +22,7 @@ Don't forget to check the README.md file!
 ```
 
 -->
-# 作本 猛(SAKUMOTO, Takeshi)
+# 作本猛 (SAKUMOTO, Takeshi)
 
 {{< figure src="/images/hhkb.jpeg" width="600" >}}
 
