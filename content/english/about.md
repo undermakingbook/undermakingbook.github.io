@@ -19,18 +19,19 @@ author = "Hugo Authors"
 - National Institute of Technology, Anan College. Dept. of Control & Information System Engineering (2013/04~2018/03)
 
 ### Internship/Work
-- Internship at Socy Computer Science Laboratories, Inc. (2021/04~Today)
+- Internship at Socy Computer Science Laboratories, Inc. (2021/04~Today) [LINK](https://www.sonycsl.co.jp/)
     - Research/Development Machine Reading/Question-Answering Technology
 - Research Assistant at Knowledge Mining Lab(Nagaoka University of Technology) (2020/04~Today)
-- Internship at KUNO.,Ltd. (2019/10~2020/02)
+- Internship at KUNO.,Ltd. (2019/10~2020/02) [LINK](https://kuno-corp.com/)
     - Research/Development Fewshot Learning/Explainable AI for Automobile
-- Internship at Aidemy, Inc. (2018/11~2019/03)
+- Internship at Aidemy, Inc. (2018/11~2019/03) [LINK](https://aidemy.co.jp/)
     - Check & Revise AI Learning Materials
     - Technical Support for AI Learners
 
 # Activity
 
-- Selected JSPS WISE program student at Nagaoka University of Technology (2020/04~Today)
+- Selected JSPS WISE program student at Nagaoka University of Technology (2020/04~Today) [LINK](https://www.nagaokaut.ac.jp/j/wise/)
+- Participate Unity Inter-High 2015 (An inter‐high school competition of creating video games with Unity) [LINK](https://uycc.unity3d.jp/archive/2015/)
 
 # Language
 ### Japanese
