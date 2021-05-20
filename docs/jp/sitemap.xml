@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/jp/</loc>
+    <loc>https://undermakingbook.github.io/jp/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://undermakingbook.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/"
+                href="https://undermakingbook.github.io/jp/"
                 />
   </url><url>
-    <loc>/jp/tags/</loc>
+    <loc>https://undermakingbook.github.io/jp/tags/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://undermakingbook.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/"
+                href="https://undermakingbook.github.io/jp/tags/"
                 />
   </url><url>
-    <loc>/jp/test/</loc>
+    <loc>https://undermakingbook.github.io/jp/test/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
   </url><url>
-    <loc>/jp/tags/test/</loc>
+    <loc>https://undermakingbook.github.io/jp/tags/test/</loc>
     <lastmod>2021-05-20T07:23:59+09:00</lastmod>
   </url><url>
-    <loc>/jp/archives/</loc>
+    <loc>https://undermakingbook.github.io/jp/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archives/"
+                href="https://undermakingbook.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/archives/"
+                href="https://undermakingbook.github.io/jp/archives/"
                 />
   </url><url>
-    <loc>/jp/about/</loc>
+    <loc>https://undermakingbook.github.io/jp/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://undermakingbook.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/about/"
+                href="https://undermakingbook.github.io/jp/about/"
                 />
   </url><url>
-    <loc>/jp/research/</loc>
+    <loc>https://undermakingbook.github.io/jp/research/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/research/"
+                href="https://undermakingbook.github.io/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/research/"
+                href="https://undermakingbook.github.io/jp/research/"
                 />
   </url><url>
-    <loc>/jp/categories/</loc>
+    <loc>https://undermakingbook.github.io/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://undermakingbook.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/categories/"
+                href="https://undermakingbook.github.io/jp/categories/"
                 />
   </url><url>
-    <loc>/jp/tags/index/</loc>
+    <loc>https://undermakingbook.github.io/jp/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/index/"
+                href="https://undermakingbook.github.io/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/index/"
+                href="https://undermakingbook.github.io/jp/tags/index/"
                 />
   </url><url>
-    <loc>/jp/post/</loc>
+    <loc>https://undermakingbook.github.io/jp/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://undermakingbook.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/post/"
+                href="https://undermakingbook.github.io/jp/post/"
                 />
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on 作本 猛(SAKUMOTO, Takeshi)</title>
-    <link>/jp/tags/test/</link>
+    <link>https://undermakingbook.github.io/jp/tags/test/</link>
     <description>Recent content in test on 作本 猛(SAKUMOTO, Takeshi)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="/jp/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="https://undermakingbook.github.io/jp/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>/jp/test/</link>
+      <link>https://undermakingbook.github.io/jp/test/</link>
       <pubDate>Thu, 20 May 2021 07:23:59 +0900</pubDate>
       
-      <guid>/jp/test/</guid>
+      <guid>https://undermakingbook.github.io/jp/test/</guid>
       <description></description>
     </item>
     

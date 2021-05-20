@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://undermakingbook.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of SAKUMOTO, Takeshi"

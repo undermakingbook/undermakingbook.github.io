@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 作本 猛(SAKUMOTO, Takeshi)</title>
-    <link>/jp/tags/</link>
+    <link>https://undermakingbook.github.io/jp/tags/</link>
     <description>Recent content in Tags on 作本 猛(SAKUMOTO, Takeshi)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="/jp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="https://undermakingbook.github.io/jp/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>/jp/tags/test/</link>
+      <link>https://undermakingbook.github.io/jp/tags/test/</link>
       <pubDate>Thu, 20 May 2021 07:23:59 +0900</pubDate>
       
-      <guid>/jp/tags/test/</guid>
+      <guid>https://undermakingbook.github.io/jp/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>/jp/tags/index/</link>
+      <link>https://undermakingbook.github.io/jp/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/jp/tags/index/</guid>
+      <guid>https://undermakingbook.github.io/jp/tags/index/</guid>
       <description></description>
     </item>
     

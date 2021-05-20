@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 作本 猛(SAKUMOTO, Takeshi)</title>
-    <link>/jp/categories/</link>
+    <link>https://undermakingbook.github.io/jp/categories/</link>
     <description>Recent content in Categories on 作本 猛(SAKUMOTO, Takeshi)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://undermakingbook.github.io/jp/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

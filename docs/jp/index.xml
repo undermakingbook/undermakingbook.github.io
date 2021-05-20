@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>作本 猛(SAKUMOTO, Takeshi)</title>
-    <link>/jp/</link>
+    <link>https://undermakingbook.github.io/jp/</link>
     <description>Recent content on 作本 猛(SAKUMOTO, Takeshi)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="/jp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 07:23:59 +0900</lastBuildDate><atom:link href="https://undermakingbook.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>/jp/test/</link>
+      <link>https://undermakingbook.github.io/jp/test/</link>
       <pubDate>Thu, 20 May 2021 07:23:59 +0900</pubDate>
       
-      <guid>/jp/test/</guid>
+      <guid>https://undermakingbook.github.io/jp/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/jp/archives/</link>
+      <link>https://undermakingbook.github.io/jp/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/jp/archives/</guid>
+      <guid>https://undermakingbook.github.io/jp/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/jp/about/</link>
+      <link>https://undermakingbook.github.io/jp/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/jp/about/</guid>
+      <guid>https://undermakingbook.github.io/jp/about/</guid>
       <description>自己紹介 興味のある研究領域  テキストマイニング(En, Ja)/NLP(Ja) 特許情報解析  略歴 学歴  長岡技術科学大学大学院 5年一貫制博士課程 技術科学イノベーション専攻 (2020/04〜在学中) 長岡技術科学大学 工学部 情報・経営システム工学課程 (2018/04〜2020/03) 阿南工業高等専門学校 制御情報工学科 (2013/04〜2018/03)  職歴  株式会社ソニーコンピュータサイエンス研究所(インターン) (2021/4～) リンク  機械読解、質問応答に関する研究開発   長岡技術科学大学 知識マイニング研究室 (RA) (2020/4～) 株式会社KUNO(インターン) (2019/9～2020/2) リンク  自動車技術を対象としたFew-shot Learning、説明可能AIに関する研究開発   株式会社アイデミー(インターン) (2018/11～2019/3) リンク  受賞歴等  日本学術振興会 卓越大学院プログラム採択(長岡技術科学大学 グローバル超実践ルートテクノロジープログラム) リンク Unityインターハイ2015 全国大会出場 リンク  扱える言語 日本語  ネイティブ  英語  TOEIC L&amp;amp;Rのスコア: 675 英語論文の読解、スローな会話の聞き取りは可能ですが、ライティング、スピーキングはあまり得意ではありません  スキル プログラミング言語 Python(PyTorch, Scikit-Learn, Pandas, Numpy, Regex, &amp;hellip;), Java, Go, Julia, C#(Unity)</description>
     </item>
     
     <item>
       <title></title>
-      <link>/jp/research/</link>
+      <link>https://undermakingbook.github.io/jp/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/jp/research/</guid>
+      <guid>https://undermakingbook.github.io/jp/research/</guid>
       <description>論文誌 NA
 国際会議 査読あり  Kensei Nakai, Hirofumi Nonaka, Asahi Hentona, Yuki Kanai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreon, Toru Hiraoka, Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks, IEEE IEEM 2018 リンク Asahi Hentona, Hirofumi Nonaka, Kensei Nakai, Takeshi Sakumoto, Shotaro Kataoka, Elisa Claire Alemán Carreon, Hugo Alberto Mendoza España, Toru Hiraoka, Masaharu Hirota, Community Detection and Growth Potential Prediction from Patent Citation Networks, Proc of ACM MEDES 2018 リンク Eichiro Ohashi, Takeshi Sakumoto, Shotaro Kataoka, Asahi Hentona, Yoko Nakajima, Hirotoshi Honma, Hirofumi Nonaka.</description>
     </item>

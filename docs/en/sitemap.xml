@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/archives/</loc>
+    <loc>https://undermakingbook.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/archives/"
+                href="https://undermakingbook.github.io/jp/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/archives/"
+                href="https://undermakingbook.github.io/archives/"
                 />
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://undermakingbook.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/about/"
+                href="https://undermakingbook.github.io/jp/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="https://undermakingbook.github.io/about/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://undermakingbook.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/"
+                href="https://undermakingbook.github.io/jp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://undermakingbook.github.io/"
                 />
   </url><url>
-    <loc>/research/</loc>
+    <loc>https://undermakingbook.github.io/research/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/research/"
+                href="https://undermakingbook.github.io/jp/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/research/"
+                href="https://undermakingbook.github.io/research/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://undermakingbook.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/categories/"
+                href="https://undermakingbook.github.io/jp/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://undermakingbook.github.io/categories/"
                 />
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>https://undermakingbook.github.io/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/index/"
+                href="https://undermakingbook.github.io/jp/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/index/"
+                href="https://undermakingbook.github.io/tags/index/"
                 />
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://undermakingbook.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/post/"
+                href="https://undermakingbook.github.io/jp/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="https://undermakingbook.github.io/post/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://undermakingbook.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="/jp/tags/"
+                href="https://undermakingbook.github.io/jp/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://undermakingbook.github.io/tags/"
                 />
   </url>
 </urlset>
